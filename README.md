@@ -1,4 +1,5 @@
-# bigbulcoin
+# bigbullcoin
+
 Large unique blockchain platform which combines many opportunities and connects everyone in the blockchain world. 
 
 Bigbullcoin is based on ERC20, Implementation on Ethereum network.
